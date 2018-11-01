@@ -1,5 +1,5 @@
 authors = ["Zeitsperre <trevor_smith@live.com>"]
-name = "ClimateMaps.jl"
+name = "ClimateMaps"
 uuid = "3426df60-de1a-11e8-139e-f16b803c02e8"
 version = "0.1.0"
 
