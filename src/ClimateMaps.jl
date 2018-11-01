@@ -1,4 +1,4 @@
-module ClimateMaps.jl
+module ClimateMaps
 
 greet() = print("Hello World!")
 
